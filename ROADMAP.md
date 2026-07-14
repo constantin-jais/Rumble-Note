@@ -8,8 +8,8 @@ See the [product readiness cockpit](docs/product-readiness.md) for the canonical
 
 - make dogfooding evidence visible through commands, fixtures, CI checks, generated reports, or linked docs;
 - keep the [product readiness cockpit](docs/product-readiness.md) current as evidence lands;
-- stabilize minimal block-model docs;
-- improve NoteContextExport fixtures;
+- define the minimal block model;
+- add the first `NoteContextExport` privacy fixtures;
 - document known runtime and sync gaps;
 - keep spec and docs checks green when present.
 

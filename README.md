@@ -34,8 +34,6 @@ It does **not** own generic extraction, orchestration, shared client infrastruct
 
 The next milestone is a minimal block model plus fixture-backed `NoteContextExport` privacy checks. Sync, hosted use and multi-device claims remain out of scope until encryption, conflict and authorization boundaries are proven.
 
-The cockpit at [docs/product-readiness.md](docs/product-readiness.md) keeps the gap between documented intent and shipped capability visible.
-
 ## Contributing
 
 Start with:
